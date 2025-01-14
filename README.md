@@ -1,10 +1,10 @@
 Hi 👋 My name is Jeremy Harris
 ==============================
 
-Senior Frontend Developer
+Senior Application Developer
 -------------------------
 
-I am a frontend developer who loves JavaScript, TypeScript, React
+I am a Sr Application Developer who loves simplifying complexity through software development
 
 *   🌍  I'm based in Thousand Oaks, CA
 *   🖥️  See my portfolio at [jeremyharris.dev](http://jeremyharris.dev)
